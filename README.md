@@ -1,8 +1,3 @@
-> [!NOTE]
-> **Made for RevaHack 23 ❤️** <br>
-> <samp> We even won the **🏆 1st place** and were the **Title Winners of RevaHack 23**! More about it here 👉 <a href="https://devfolio.co/projects/dmd-dirty-money-detector-54b2">Devfolio</a> </samp>
-
----
 
 ![image](https://github.com/sr2echa/dirty-moni-detector/assets/65058816/f2d86ce3-9d19-499a-bc6e-7ef83f8f7083)
 
